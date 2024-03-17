@@ -1,0 +1,9 @@
+{
+    "SendTraffic" : true,
+    "ForceClick"  : true,
+    "TimeToSpawnSendTraffic" : 1,
+    "Title" : "",
+    "TitleOnSpamSendTraffic" : "",
+    "ImageURL" : "https://github.com/LICENSE16/csa.json/blob/main/CC.PNG?raw=true",
+    "GameURL" : "com.startgames.escape.barry.prisons.obby.jailbreaks.mod"
+}
